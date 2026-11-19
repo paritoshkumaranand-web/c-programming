@@ -1,3 +1,4 @@
+# c-programming
 My C programs from B.Tech 1st year
 
 - attendance.c: Calculates attendance % and how many classes you can miss to stay above 75%.
